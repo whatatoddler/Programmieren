@@ -1,12 +1,10 @@
 Projektidee: Einführung in das Programmieren
 
-iPuzzle:
-Puzzlespiel (Browserplugin? Standalone?), bei dem...
+Hacker-Textadventure im Stil von Hack RUN.
 
-...die aktuell im Browser angezeigte Seite 
-oder
-...eine Bilddatei
-oder
-...der Desktop/die aktuelle Bildschirmansicht
-
-in ein Puzzle zerlegt wird.
+Die Oberfälche besteht hauptsächlich aus Text, interagiert wird über Befehlseingaben.
+Eingebunden werden außerdem externe Internet-Seiten, auf denen bspw. bestimmte Informationen gesucht werden müssen,
+die gebraucht werden, um im Spiel weiter zu kommen.
+Das Spiel soll dabei die HAW-Internetseite als Thema haben.
+Bspw. wird das Hacken eines Benutzerkontos (bspsw. eines Professors) simuliert, um z.B. letztendlich eine HAW-interne
+Verschwörung aufzudecken.
